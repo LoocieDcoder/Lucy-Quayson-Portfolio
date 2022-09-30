@@ -190,3 +190,4 @@ const sr = ScrollReveal({
 
 sr.reveal(`.home__data`)
 sr.reveal(`.home__info div`, { delay: 600, origin: 'bottom', interval: 100 })
+sr.reveal(`.skills__content:nth-child(1)`, { origin: 'left' })
