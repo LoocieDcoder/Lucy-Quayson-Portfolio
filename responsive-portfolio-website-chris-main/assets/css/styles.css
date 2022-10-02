@@ -15,10 +15,12 @@
   --container-color: hsl(207, 4%, 95%);
 
   /* Change the first number */
+
+
   /* Blue: 207 - Purple: 250 - Pink: 356 - Teal: 174 */
   --gradient-color: linear-gradient(180deg,
-      hsla(207, 48%, 72%, 0),
-      hsla(207, 65%, 65%, 1));
+      hsla(174, 48%, 72%, 0),
+      hsla(174, 65%, 65%, 1));
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
